@@ -1,4 +1,4 @@
-# Source-Bin-CC-GEN
+# Medoz-Bin-CC-GEN
 sourcebincc cc gen Source Code
 sourcebincc cc gen new upgraded version instantly Generates valid random credit card numbers ; details like CCV. that complies with Luhn's algorithm
 
